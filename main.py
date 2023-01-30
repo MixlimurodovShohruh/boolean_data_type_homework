@@ -1,0 +1,1 @@
+print("""   (\\__/)\n   (=` .`)\n   (_(")(")"""); ytyutdgreru="jgtrugfhj"; print(ytyutdgreru)

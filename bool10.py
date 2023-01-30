@@ -7,4 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return 0
+    return round(pow(a,1/2))**2==a
+
+print(main(45))

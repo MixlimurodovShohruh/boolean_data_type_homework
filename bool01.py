@@ -8,5 +8,6 @@ def main(a,b):
         bool
     """
     
+    
     return a==b
 print(main(1,1)) 
